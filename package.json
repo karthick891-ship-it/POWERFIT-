@@ -1,0 +1,13 @@
+{
+  "name": "powerfit-gym-backend",
+  "version": "1.0.1",
+  "private": true,
+  "description": "PowerFit Gym website with Express backend and JSON enquiry storage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
